@@ -152,8 +152,8 @@ playername.Parent = khungdon1
 playername.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 playername.BorderColor3 = Color3.fromRGB(0, 0, 0)
 playername.BorderSizePixel = 0
-playername.Position = UDim2.new(0.00822444353, 0, 0.179487184, 0)
-playername.Size = UDim2.new(0, 276, 0, 50)
+playername.Position = UDim2.new(0.053286735, 0, 0.179487184, 0)
+playername.Size = UDim2.new(0, 629, 0, 50)
 playername.Font = Enum.Font.SourceSans
 playername.TextColor3 = Color3.fromRGB(0, 0, 0)
 playername.TextSize = 47.000
@@ -163,7 +163,7 @@ xongdon.Parent = khungdon1
 xongdon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 xongdon.BorderColor3 = Color3.fromRGB(0, 0, 0)
 xongdon.BorderSizePixel = 0
-xongdon.Position = UDim2.new(0.344199419, 0, 0.179487184, 0)
+xongdon.Position = UDim2.new(0.722914696, 0, 0.179487184, 0)
 xongdon.Size = UDim2.new(0, 225, 0, 50)
 xongdon.Font = Enum.Font.SourceSans
 xongdon.Text = "chưa xong"
@@ -198,8 +198,8 @@ playername_2.Parent = khungdon2
 playername_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 playername_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 playername_2.BorderSizePixel = 0
-playername_2.Position = UDim2.new(0.00726567069, 0, 0.179487184, 0)
-playername_2.Size = UDim2.new(0, 276, 0, 50)
+playername_2.Position = UDim2.new(0.053286735, 0, 0.179487184, 0)
+playername_2.Size = UDim2.new(0, 629, 0, 50)
 playername_2.Font = Enum.Font.SourceSans
 playername_2.TextColor3 = Color3.fromRGB(0, 0, 0)
 playername_2.TextSize = 47.000
@@ -209,7 +209,7 @@ xongdon_2.Parent = khungdon2
 xongdon_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 xongdon_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 xongdon_2.BorderSizePixel = 0
-xongdon_2.Position = UDim2.new(0.344199419, 0, 0.179487184, 0)
+xongdon_2.Position = UDim2.new(0.722914696, 0, 0.179487184, 0)
 xongdon_2.Size = UDim2.new(0, 225, 0, 50)
 xongdon_2.Font = Enum.Font.SourceSans
 xongdon_2.Text = "chưa xong"
@@ -244,8 +244,8 @@ playername_3.Parent = khungdon3
 playername_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 playername_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
 playername_3.BorderSizePixel = 0
-playername_3.Position = UDim2.new(0.00726567069, 0, 0.179487184, 0)
-playername_3.Size = UDim2.new(0, 276, 0, 50)
+playername_3.Position = UDim2.new(0.053286735, 0, 0.179487184, 0)
+playername_3.Size = UDim2.new(0, 629, 0, 50)
 playername_3.Font = Enum.Font.SourceSans
 playername_3.TextColor3 = Color3.fromRGB(0, 0, 0)
 playername_3.TextSize = 47.000
@@ -255,7 +255,7 @@ xongdon_3.Parent = khungdon3
 xongdon_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 xongdon_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
 xongdon_3.BorderSizePixel = 0
-xongdon_3.Position = UDim2.new(0.344199419, 0, 0.179487184, 0)
+xongdon_3.Position = UDim2.new(0.722914696, 0, 0.179487184, 0)
 xongdon_3.Size = UDim2.new(0, 225, 0, 50)
 xongdon_3.Font = Enum.Font.SourceSans
 xongdon_3.Text = "chưa xong"
@@ -290,8 +290,8 @@ playername_4.Parent = khungdon4
 playername_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 playername_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
 playername_4.BorderSizePixel = 0
-playername_4.Position = UDim2.new(0.00726567069, 0, 0.179487184, 0)
-playername_4.Size = UDim2.new(0, 277, 0, 50)
+playername_4.Position = UDim2.new(0.053286735, 0, 0.179487184, 0)
+playername_4.Size = UDim2.new(0, 629, 0, 50)
 playername_4.Font = Enum.Font.SourceSans
 playername_4.TextColor3 = Color3.fromRGB(0, 0, 0)
 playername_4.TextSize = 47.000
@@ -301,7 +301,7 @@ xongdon_4.Parent = khungdon4
 xongdon_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 xongdon_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
 xongdon_4.BorderSizePixel = 0
-xongdon_4.Position = UDim2.new(0.344199419, 0, 0.179487184, 0)
+xongdon_4.Position = UDim2.new(0.722914696, 0, 0.179487184, 0)
 xongdon_4.Size = UDim2.new(0, 225, 0, 50)
 xongdon_4.Font = Enum.Font.SourceSans
 xongdon_4.Text = "chưa xong"
@@ -336,8 +336,8 @@ playername_5.Parent = khungdon5
 playername_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 playername_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
 playername_5.BorderSizePixel = 0
-playername_5.Position = UDim2.new(0.00726567069, 0, 0.179487184, 0)
-playername_5.Size = UDim2.new(0, 277, 0, 50)
+playername_5.Position = UDim2.new(0.053286735, 0, 0.179487184, 0)
+playername_5.Size = UDim2.new(0, 629, 0, 50)
 playername_5.Font = Enum.Font.SourceSans
 playername_5.TextColor3 = Color3.fromRGB(0, 0, 0)
 playername_5.TextSize = 47.000
@@ -347,7 +347,7 @@ xongdon_5.Parent = khungdon5
 xongdon_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 xongdon_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
 xongdon_5.BorderSizePixel = 0
-xongdon_5.Position = UDim2.new(0.344199419, 0, 0.179487184, 0)
+xongdon_5.Position = UDim2.new(0.722914696, 0, 0.179487184, 0)
 xongdon_5.Size = UDim2.new(0, 225, 0, 50)
 xongdon_5.Font = Enum.Font.SourceSans
 xongdon_5.Text = "chưa xong"
@@ -355,33 +355,33 @@ xongdon_5.TextColor3 = Color3.fromRGB(0, 0, 0)
 xongdon_5.TextSize = 45.000
 
 local script = Instance.new('Script', modong)
-	local modong = script.Parent
-	local khungyeucau =  script.Parent.Parent.khungyeucau
-	modong.MouseButton1Click:Connect(function()
-	
-		if khungyeucau.Visible == false then
-			khungyeucau.Visible = true
-			modong.Text = "đóng"
+local modong = script.Parent
+local khungyeucau =  script.Parent.Parent.khungyeucau
+modong.MouseButton1Click:Connect(function()
+
+	if khungyeucau.Visible == false then
+		khungyeucau.Visible = true
+		modong.Text = "đóng"
 	else
-			khungyeucau.Visible = false
-			modong.Text = "mở"
-		end
-	end)
+		khungyeucau.Visible = false
+		modong.Text = "mở"
+	end
+end)
 
-	local script = Instance.new('Script', yeucau1)
-	local yeucau1 = script.Parent
-	local khungdon1 = yeucau1.Parent.Parent.Parent.khungdon1
-	yeucau1.MouseButton1Click:Connect(function()
-		khungdon1.Visible = not khungdon1.Visible
-	end)
+local script = Instance.new('Script', yeucau1)
+local yeucau1 = script.Parent
+local khungdon1 = yeucau1.Parent.Parent.Parent.khungdon1
+yeucau1.MouseButton1Click:Connect(function()
+	khungdon1.Visible = not khungdon1.Visible
+end)
 
 
-	local script = Instance.new('Script', yeucau2)
-	local yeucau2 = script.Parent
-	local khungdon2 = yeucau1.Parent.Parent.Parent.khungdon2
-	yeucau2.MouseButton1Click:Connect(function()
-		khungdon2.Visible = not khungdon2.Visible
-	end)
+local script = Instance.new('Script', yeucau2)
+local yeucau2 = script.Parent
+local khungdon2 = yeucau1.Parent.Parent.Parent.khungdon2
+yeucau2.MouseButton1Click:Connect(function()
+	khungdon2.Visible = not khungdon2.Visible
+end)
 
 
 local script = Instance.new('Script', yeucau3)
@@ -392,94 +392,93 @@ yeucau3.MouseButton1Click:Connect(function()
 	khungdon3.Visible = not khungdon3.Visible
 end)
 
- 
-	local script = Instance.new('Script', yeucau4)
-	local yeucau4 = script.Parent
-	local khungdon4 = yeucau1.Parent.Parent.Parent.khungdon4
-	yeucau4.MouseButton1Click:Connect(function()
-		khungdon4.Visible = not khungdon4.Visible
-	end)
+
+local script = Instance.new('Script', yeucau4)
+local yeucau4 = script.Parent
+local khungdon4 = yeucau1.Parent.Parent.Parent.khungdon4
+yeucau4.MouseButton1Click:Connect(function()
+	khungdon4.Visible = not khungdon4.Visible
+end)
 
 
-	local script = Instance.new('Script', yeucau5)
-	local yeucau5 = script.Parent
-	local khungdon5 = yeucau1.Parent.Parent.Parent.khungdon5
-	yeucau5.MouseButton1Click:Connect(function()
-		khungdon5.Visible = not khungdon5.Visible
-	end)
+local script = Instance.new('Script', yeucau5)
+local yeucau5 = script.Parent
+local khungdon5 = yeucau1.Parent.Parent.Parent.khungdon5
+yeucau5.MouseButton1Click:Connect(function()
+	khungdon5.Visible = not khungdon5.Visible
+end)
 
 
-	local script = Instance.new('Script', playername)
-	local playername = script.Parent
-	playername.Text = game.Players.LocalPlayer.Name
-	local script = Instance.new('Script', xongdon)
-	local xongdon = script.Parent
-	xongdon.MouseButton1Click:Connect(function()
-		if xongdon.Text == "chưa xong" then
-			xongdon.Text = "thành công"
-		else
-			xongdon.Text = "chưa xong"
-		end
-	end)
+local script = Instance.new('Script', playername)
+local playername = script.Parent
+playername.Text = game.Players.LocalPlayer.Name
+local script = Instance.new('Script', xongdon)
+local xongdon = script.Parent
+xongdon.MouseButton1Click:Connect(function()
+	if xongdon.Text == "chưa xong" then
+		xongdon.Text = "thành công"
+	else
+		xongdon.Text = "chưa xong"
+	end
+end)
 
 
-	local script = Instance.new('Script', playername_2)
-	local playername = script.Parent
-	playername.Text = game.Players.LocalPlayer.Name
-	
-	local script = Instance.new('Script', xongdon_2)
-	local xongdon = script.Parent
-	xongdon.MouseButton1Click:Connect(function()
-		if xongdon.Text == "chưa xong" then
-			xongdon.Text = "thành công"
-		else
-			xongdon.Text = "chưa xong"
-		end
-	end)
-	
- 
-	local script = Instance.new('Script', playername_3)
+local script = Instance.new('Script', playername_2)
+local playername = script.Parent
+playername.Text = game.Players.LocalPlayer.Name
 
-	local playername = script.Parent
-	playername.Text = game.Players.LocalPlayer.Name
-	
-	local script = Instance.new('Script', xongdon_3)
-	local xongdon = script.Parent
-	xongdon.MouseButton1Click:Connect(function()
-		if xongdon.Text == "chưa xong" then
-			xongdon.Text = "thành công"
-		else
-			xongdon.Text = "chưa xong"
-		end
-	end)
-	
-	local script = Instance.new('Script', playername_4)
-	local playername = script.Parent
-	playername.Text = game.Players.LocalPlayer.Name
-	
+local script = Instance.new('Script', xongdon_2)
+local xongdon = script.Parent
+xongdon.MouseButton1Click:Connect(function()
+	if xongdon.Text == "chưa xong" then
+		xongdon.Text = "thành công"
+	else
+		xongdon.Text = "chưa xong"
+	end
+end)
 
-	local script = Instance.new('Script', xongdon_4)
-	local xongdon = script.Parent
-	xongdon.MouseButton1Click:Connect(function()
-		if xongdon.Text == "chưa xong" then
-			xongdon.Text = "thành công"
-		else
-			xongdon.Text = "chưa xong"
-		end
-	end)
-	
-	local script = Instance.new('Script', playername_5)
-	local playername = script.Parent
-	playername.Text = game.Players.LocalPlayer.Name
-	
-	local script = Instance.new('Script', xongdon_5)
-	local xongdon = script.Parent
-	xongdon.MouseButton1Click:Connect(function()
-		if xongdon.Text == "chưa xong" then
-			xongdon.Text = "thành công"
-		else
-			xongdon.Text = "chưa xong"
-		end
-	end)
-	
+
+local script = Instance.new('Script', playername_3)
+
+local playername = script.Parent
+playername.Text = game.Players.LocalPlayer.Name
+
+local script = Instance.new('Script', xongdon_3)
+local xongdon = script.Parent
+xongdon.MouseButton1Click:Connect(function()
+	if xongdon.Text == "chưa xong" then
+		xongdon.Text = "thành công"
+	else
+		xongdon.Text = "chưa xong"
+	end
+end)
+
+local script = Instance.new('Script', playername_4)
+local playername = script.Parent
+playername.Text = game.Players.LocalPlayer.Name
+
+
+local script = Instance.new('Script', xongdon_4)
+local xongdon = script.Parent
+xongdon.MouseButton1Click:Connect(function()
+	if xongdon.Text == "chưa xong" then
+		xongdon.Text = "thành công"
+	else
+		xongdon.Text = "chưa xong"
+	end
+end)
+
+local script = Instance.new('Script', playername_5)
+local playername = script.Parent
+playername.Text = game.Players.LocalPlayer.Name
+
+local script = Instance.new('Script', xongdon_5)
+local xongdon = script.Parent
+xongdon.MouseButton1Click:Connect(function()
+	if xongdon.Text == "chưa xong" then
+		xongdon.Text = "thành công"
+	else
+		xongdon.Text = "chưa xong"
+	end
+end)
 
